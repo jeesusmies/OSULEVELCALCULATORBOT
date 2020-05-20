@@ -13,7 +13,7 @@ def score(n):
    if n <= 100: return 5000/3*(4*n**3-3*n**2-n)+1.25*1.8**(n-60)
    elif n > 100: return 26931190827+99999999999*(n - 100)
 
-TOKEN = "Token"16
+TOKEN = "Token"
 client = commands.Bot(command_prefix = get_prefix)
 client.remove_command("help")
 

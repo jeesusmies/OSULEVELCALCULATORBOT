@@ -1,13 +1,14 @@
 # OSULEVELCALCULATORBOT
 I AM DIAGNOSED WITH BOREDISM  
 invite link: https://discord.com/oauth2/authorize?client_id=705492481554514000&scope=bot&permissions=3072  
-How to use bot??
+
+# How to use bot??
 1. Change token in line 16 to ur token
 2. run bot
 3. invite bot
 4. profit
 
-how to use commands??
+# how to use commands??
 1. the prefix command
 .prefix (prefix)
 2. the level calculation command  

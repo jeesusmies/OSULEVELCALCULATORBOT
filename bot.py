@@ -19,7 +19,7 @@ client.remove_command("help")
 
 @client.event
 async def on_ready():
-    await client.change_presence(activity=discord.Game("my master is jeesusmies#0500 | .help"))
+    await client.change_presence(activity=discord.Game(".help"))
     print("work")
 
 @client.event

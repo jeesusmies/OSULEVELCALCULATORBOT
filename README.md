@@ -9,10 +9,10 @@ How to use bot??
 
 how to use commands??
 1. the prefix command
-  .prefix (prefix)
+.prefix (prefix)
 2. the level calculation command
-  2 ways to do it
-  .level_calc (level)
-    outputs the amount of score you need to get from level 1 to level (level)
-  .level_calc (level_1) (level_2)
-    outputs the amount of score you need to get from level (level_1) to level (level_2)
+2 ways to do it
+.level_calc (level)
+outputs the amount of score you need to get from level 1 to level (level)
+.level_calc (level_1) (level_2)
+outputs the amount of score you need to get from level (level_1) to level (level_2)

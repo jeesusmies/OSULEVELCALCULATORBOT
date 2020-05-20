@@ -1,5 +1,5 @@
 # OSULEVELCALCULATORBOT
-I AM DIAGNOSED WITH BOREDISM
+I AM DIAGNOSED WITH BOREDISM  
 invite link: https://discord.com/oauth2/authorize?client_id=705492481554514000&scope=bot&permissions=3072  
 How to use bot??
 1. Change token in line 16 to ur token
